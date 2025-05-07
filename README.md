@@ -27,8 +27,8 @@ pip install opencv-python
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/gurjeet3010/face-detection-opencv.git
-   cd face-detection-opencv
+   git clone https://github.com/gurjeet3010/face-detection.git
+   cd face-detection
    ```
 
 2. Open the notebook `detection.ipynb` and run all the cells sequentially.
